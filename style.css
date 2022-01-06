@@ -1,0 +1,10 @@
+.CSScontainer {
+    width: 1100px;
+    background-color: aqua;
+    margin: auto;
+}
+
+.CSSrow {
+    display: flex;
+    flex-wrap: wrap;
+}
